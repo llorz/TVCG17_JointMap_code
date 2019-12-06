@@ -40,3 +40,9 @@ For the above datasets, just set the model_name and run the script, it will set 
 - `testFAUST.m`: use the FAUST dataset to compare the joint layout and the MDS layout
 
 - `testGraphErr_PSB.m`, `testGraphErr_SNC.m`: visualize the graph error (two scripts are almost the same but with different parameters)
+
+
+
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License
+
